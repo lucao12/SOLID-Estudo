@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas\\source\\repos\\SOLID\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE219DF-626A-40C4-8090-A2D6E6DFE980}|SOLID\\SOLID.csproj|c:\\users\\lucas\\source\\repos\\solid\\solid\\interfaces\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE219DF-626A-40C4-8090-A2D6E6DFE980}|SOLID\\SOLID.csproj|solutionrelative:solid\\interfaces\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE219DF-626A-40C4-8090-A2D6E6DFE980}|SOLID\\SOLID.csproj|c:\\users\\lucas\\source\\repos\\solid\\solid\\interfaces\\icontrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE219DF-626A-40C4-8090-A2D6E6DFE980}|SOLID\\SOLID.csproj|solutionrelative:solid\\interfaces\\icontrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE219DF-626A-40C4-8090-A2D6E6DFE980}|SOLID\\SOLID.csproj|c:\\users\\lucas\\source\\repos\\solid\\solid\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE219DF-626A-40C4-8090-A2D6E6DFE980}|SOLID\\SOLID.csproj|solutionrelative:solid\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE219DF-626A-40C4-8090-A2D6E6DFE980}|SOLID\\SOLID.csproj|c:\\users\\lucas\\source\\repos\\solid\\solid\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE219DF-626A-40C4-8090-A2D6E6DFE980}|SOLID\\SOLID.csproj|solutionrelative:solid\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE219DF-626A-40C4-8090-A2D6E6DFE980}|SOLID\\SOLID.csproj|c:\\users\\lucas\\source\\repos\\solid\\solid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE219DF-626A-40C4-8090-A2D6E6DFE980}|SOLID\\SOLID.csproj|solutionrelative:solid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE219DF-626A-40C4-8090-A2D6E6DFE980}|SOLID\\SOLID.csproj|c:\\users\\lucas\\source\\repos\\solid\\solid\\analista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE219DF-626A-40C4-8090-A2D6E6DFE980}|SOLID\\SOLID.csproj|solutionrelative:solid\\analista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE219DF-626A-40C4-8090-A2D6E6DFE980}|SOLID\\SOLID.csproj|c:\\users\\lucas\\source\\repos\\solid\\solid\\programador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE219DF-626A-40C4-8090-A2D6E6DFE980}|SOLID\\SOLID.csproj|solutionrelative:solid\\programador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE219DF-626A-40C4-8090-A2D6E6DFE980}|SOLID\\SOLID.csproj|c:\\users\\lucas\\source\\repos\\solid\\solid\\repositories\\repositoriofuncionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE219DF-626A-40C4-8090-A2D6E6DFE980}|SOLID\\SOLID.csproj|solutionrelative:solid\\repositories\\repositoriofuncionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\SOLID\\SOLID\\Interfaces\\IRepositorio.cs",
+              "RelativeDocumentMoniker": "SOLID\\Interfaces\\IRepositorio.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\SOLID\\SOLID\\Interfaces\\IRepositorio.cs",
+              "RelativeToolTip": "SOLID\\Interfaces\\IRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T19:08:08.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IContrato.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\SOLID\\SOLID\\Interfaces\\IContrato.cs",
+              "RelativeDocumentMoniker": "SOLID\\Interfaces\\IContrato.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\SOLID\\SOLID\\Interfaces\\IContrato.cs",
+              "RelativeToolTip": "SOLID\\Interfaces\\IContrato.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T19:08:02.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\SOLID\\SOLID\\Pessoa.cs",
+              "RelativeDocumentMoniker": "SOLID\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\SOLID\\SOLID\\Pessoa.cs",
+              "RelativeToolTip": "SOLID\\Pessoa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T19:08:13.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\SOLID\\SOLID\\Funcionario.cs",
+              "RelativeDocumentMoniker": "SOLID\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\SOLID\\SOLID\\Funcionario.cs",
+              "RelativeToolTip": "SOLID\\Funcionario.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T19:07:55.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RepositorioFuncionarios.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\SOLID\\SOLID\\Repositories\\RepositorioFuncionarios.cs",
+              "RelativeDocumentMoniker": "SOLID\\Repositories\\RepositorioFuncionarios.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\SOLID\\SOLID\\Repositories\\RepositorioFuncionarios.cs",
+              "RelativeToolTip": "SOLID\\Repositories\\RepositorioFuncionarios.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T19:08:26.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Programador.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\SOLID\\SOLID\\Programador.cs",
+              "RelativeDocumentMoniker": "SOLID\\Programador.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\SOLID\\SOLID\\Programador.cs",
+              "RelativeToolTip": "SOLID\\Programador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T19:07:46.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Analista.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\SOLID\\SOLID\\Analista.cs",
+              "RelativeDocumentMoniker": "SOLID\\Analista.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\SOLID\\SOLID\\Analista.cs",
+              "RelativeToolTip": "SOLID\\Analista.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T19:07:44.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\SOLID\\SOLID\\Program.cs",
+              "RelativeDocumentMoniker": "SOLID\\Program.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\SOLID\\SOLID\\Program.cs",
+              "RelativeToolTip": "SOLID\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T17:57:48.505Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

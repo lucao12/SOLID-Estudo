@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\SOLID\SOLID\obj\Debug\net8.0\SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\SOLID\SOLID\obj\Debug\net8.0\SOLID.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\SOLID\SOLID\obj\Debug\net8.0\SOLID.AssemblyInfo.cs
+C:\Users\lucas\source\repos\SOLID\SOLID\obj\Debug\net8.0\SOLID.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\SOLID\SOLID\bin\Debug\net8.0\SOLID.exe
+C:\Users\lucas\source\repos\SOLID\SOLID\bin\Debug\net8.0\SOLID.deps.json
+C:\Users\lucas\source\repos\SOLID\SOLID\bin\Debug\net8.0\SOLID.runtimeconfig.json
+C:\Users\lucas\source\repos\SOLID\SOLID\bin\Debug\net8.0\SOLID.dll
+C:\Users\lucas\source\repos\SOLID\SOLID\bin\Debug\net8.0\SOLID.pdb
+C:\Users\lucas\source\repos\SOLID\SOLID\obj\Debug\net8.0\SOLID.dll
+C:\Users\lucas\source\repos\SOLID\SOLID\obj\Debug\net8.0\refint\SOLID.dll
+C:\Users\lucas\source\repos\SOLID\SOLID\obj\Debug\net8.0\SOLID.pdb
+C:\Users\lucas\source\repos\SOLID\SOLID\obj\Debug\net8.0\SOLID.genruntimeconfig.cache
+C:\Users\lucas\source\repos\SOLID\SOLID\obj\Debug\net8.0\ref\SOLID.dll
